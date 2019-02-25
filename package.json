@@ -1,0 +1,20 @@
+{
+  "name": "as-date-format",
+  "version": "1.0.0",
+  "description": "format Date",
+  "main": "date-format.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falcon11/date-format-js.git"
+  },
+  "keywords": [],
+  "author": "ashoka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/falcon11/date-format-js/issues"
+  },
+  "homepage": "https://github.com/falcon11/date-format-js#readme"
+}
